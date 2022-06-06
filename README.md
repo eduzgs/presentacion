@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eduzgs
-- 👀 I’m interested in Finances
-- 🌱 I’m currently learning Javascript and web development
+- 👀 I’m interested in learning code
+- 🌱 I’m currently learning Javascript and web development.
 - 📫 How to reach me: Email eduardo.zgs@gmail.com
 
 <!---
